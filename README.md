@@ -1,14 +1,13 @@
 #### Hi there, I'm Madhura Punde 👋
  
-######  🔭 I’m A Frontend Heavy full stack developer
-  
-###### 🌱 I’m currently learning DevOps Tools
-  
+######  🔭 I’m A Frontend Heavy full stack developer 
+###### 🌱 I’m currently learning DevOps Tools  
 ###### 👯 I’m looking to collaborate on open source projects
 ###### 💬 Ask me about Tech
-  
-###### 📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ###### ⚡ Fun fact: Apart from my work I read📖, craft, travel🌄, paint🖌
+
+###### 📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 
 #### Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
